@@ -1,0 +1,5 @@
+.reveal h2 { margin: 1.25em 0 .5em }
+.reveal h3 { margin: 1em 0 .5em }
+
+.reveal h2:first-child,
+.reveal h3:first-child { margin-top: 0 }
